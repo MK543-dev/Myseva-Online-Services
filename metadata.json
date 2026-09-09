@@ -1,0 +1,6 @@
+{
+  "name": "MySeva Online Services",
+  "description": "Access 100+ online documentation, government, academic, business, tax, property, and MeeSeva services with convenient assistance from MySeva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
